@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "timestamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^1.0.12"
+  }
+}
