@@ -4,8 +4,8 @@
   "description": "",
   "main": "timestamp.js",
   "scripts": {
-    "start": "node timestamp.js",
-},
+    "start": "node timestamp.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
