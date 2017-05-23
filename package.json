@@ -4,7 +4,7 @@
   "description": "",
   "main": "timestamp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node timestamp.js"
   },
   "engines" : {
     "node": "7.10.0"
