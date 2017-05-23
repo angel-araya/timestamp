@@ -4,6 +4,7 @@
   "description": "",
   "main": "timestamp.js",
   "scripts": {
+    "start": "node timestamp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
