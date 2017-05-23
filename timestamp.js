@@ -13,6 +13,6 @@ app.get('/:date', (req, res) => {
   res.json(date)
 })
 
-app.listen(1337, () =>{
-  console.log('App listening on port 1337');
+app.listen(8080, () =>{
+  console.log('App listening on port 8080');
 })
